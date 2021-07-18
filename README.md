@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on IBM ZaaS, focus on OpenShift Landing on Z/LinuxOne.
+I’m currently working on IBM ZaaS, focus on OpenShift Landing on IBM Z/LinuxOne.
 
 <a href="https://github.com/gyohuangxin/gyohuangxin/blob/master/README.md">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gyohuangxin&show_icons=true&count_private=true" />
