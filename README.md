@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<a href="https://github.com/gyohuangxin/gyohuangxin/blob/master/README.md">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gyohuangxin&show_icons=true&count_private=true" />
-</a>
-
 <!--
 **gyohuangxin/gyohuangxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
